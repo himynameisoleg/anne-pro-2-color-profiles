@@ -10,4 +10,4 @@ Inspired by retro 70s style color pallet, similar to the **Roland TR-808** drum 
 - Click "Import" button next to Profile Details
 - Import individual .json files from this repo
 
-![alt text](https://github.com/himynameisoleg/anne-pro-2-color-profiles/blob/main/image0.jpg)
+<img src="./image0.jpg" width="380px">
